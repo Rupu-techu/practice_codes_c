@@ -49,8 +49,6 @@ Execution Environment: Terminal / Command Prompt
 
 Compilation Command: gcc FileName.c -o output
 
-Execution Command: ./output
-
 Practicing with manual compilation strengthened understanding of:
 
 C program structure
